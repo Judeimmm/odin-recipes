@@ -1,0 +1,37 @@
+
+* {
+    font-family:Verdana, sans-serif, "Dejavu Sans";
+    line-height: 1.5;
+    color: black;
+}
+
+.recipe-card img {
+    width: 100px;
+    place-items: center;
+}
+
+.container.index {
+    text-align: center;
+}
+.recipe-card {
+    background-color: rgb(219, 99, 99);
+    border: 2px solid black;
+}
+
+.container {
+    background-color: rgb(219, 217, 96);
+}
+
+
+h3 {
+    font-weight: 400;
+}
+
+ul,
+a
+  {    
+    text-decoration: none;
+    list-style: none;
+}
+
+
