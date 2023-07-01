@@ -1,0 +1,27 @@
+* {
+    font-family:Verdana, sans-serif, "Dejavu Sans";
+    line-height: 1.5;
+    color: white;
+    /*border: 2px solid black; */
+}
+html {
+    background-color: #9fbb73;
+}
+.container {
+    border:2px solid black;
+    background-color:#81afce;
+    text-align: center;
+    max-width: fit-content;
+    margin: 0px auto;
+}
+.container.index {
+    background-color:;
+}
+
+
+ul,
+a {
+    text-decoration: none;
+    list-style: none;
+}
+
